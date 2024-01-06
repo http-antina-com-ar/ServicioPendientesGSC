@@ -1,0 +1,37 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ServicioPendientes" GeneratedClassName="SettingsPendings">
+  <Profiles />
+  <Settings>
+    <Setting Name="logPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">c:</Value>
+    </Setting>
+    <Setting Name="dbConnection" Type="(Connection string)" Scope="Application">
+      <DesignTimeValue Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;SerializableConnectionString xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"&gt;
+  &lt;ConnectionString&gt;Data Source=10.10.10.155\antina_bd_dev;Initial Catalog=GSC_TESTFRANK;Persist Security Info=True;User ID=fbenitez;Password=123456&lt;/ConnectionString&gt;
+&lt;/SerializableConnectionString&gt;</DesignTimeValue>
+      <Value Profile="(Default)">Data Source=10.10.10.155\antina_bd_dev;Initial Catalog=GSC_TESTFRANK;Persist Security Info=True;User ID=fbenitez;Password=123456</Value>
+    </Setting>
+    <Setting Name="daysBackCleaning" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="toList" Type="System.String" Scope="User">
+      <Value Profile="(Default)">francisco_benitez@antina.com.ar;maximiliano_mora@antina.com.ar</Value>
+    </Setting>
+    <Setting Name="smtp_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">10.10.10.70</Value>
+    </Setting>
+    <Setting Name="smtp_port" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">25</Value>
+    </Setting>
+    <Setting Name="pendingsFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\10.10.10.155\k$\Pendientes</Value>
+    </Setting>
+    <Setting Name="loadedFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">\\10.10.10.155\k$\Cargados</Value>
+    </Setting>
+    <Setting Name="filesPerBatch" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

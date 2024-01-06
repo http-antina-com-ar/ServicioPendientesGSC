@@ -1,0 +1,22 @@
+﻿Instalando ensamblado 'C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.InstallLog
+   assemblypath = C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.exe
+Instalando el servicio PendientesGSC...
+El servicio PendientesGSC se ha instalado correctamente.
+Creando el origen de EventLog PendientesGSC en el registro Application...
+Confirmando ensamblado 'C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.InstallLog
+   assemblypath = C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.exe
+Desinstalando ensamblado 'C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.InstallLog
+   assemblypath = C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.exe
+Quitando el origen de EventLog PendientesGSC.
+Se está quitando el servicio PendientesGSC del sistema...
+El servicio PendientesGSC se ha quitado correctamente del sistema.
+Intento de detener el servicio PendientesGSC.

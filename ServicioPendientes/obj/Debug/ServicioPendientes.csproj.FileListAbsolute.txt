@@ -1,0 +1,10 @@
+C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.exe.config
+C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.exe
+C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\bin\Debug\ServicioPendientes.pdb
+C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\obj\Debug\ServicioPendientes.csproj.AssemblyReference.cache
+C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\obj\Debug\ServicioPendientes.ProjectInstaller.resources
+C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\obj\Debug\ServicioPendientes.PendientesGSC.resources
+C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\obj\Debug\ServicioPendientes.csproj.GenerateResource.cache
+C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\obj\Debug\ServicioPendientes.csproj.CoreCompileInputs.cache
+C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\obj\Debug\ServicioPendientes.exe
+C:\Users\Francisco\source\repos\ServicioPendientes\ServicioPendientes\obj\Debug\ServicioPendientes.pdb
